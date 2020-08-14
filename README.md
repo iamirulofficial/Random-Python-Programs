@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://raw.githubusercontent.com/iamirulofficial/Random-Python-Programs/master/rpic.png"/>
+  <img src="https://raw.githubusercontent.com/iamirulofficial/Random-Python-Programs/master/rpic-2.png"/>
 
   <br>
   <br>
