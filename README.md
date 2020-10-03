@@ -11,7 +11,7 @@
 <br/>
 
 ## Random-Python-Programs
-### Put your random but well organized python Programs here !
+### Get into Open Source Put your random but well organized python Programs here !
 
 ## Contributing to Random Python Programs
 
