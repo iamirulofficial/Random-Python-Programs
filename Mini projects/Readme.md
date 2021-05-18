@@ -2,6 +2,7 @@
 You can add random mini-projects here.
 ### List
 - Personal Assistant
+- URL Shortener
 ### Rules
 - Must be easy to read.
 - Must contain comments explaining logic 
